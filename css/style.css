@@ -1,0 +1,87 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.navbar{
+	height: 120px;
+	width: 100%
+	background: rgba(0,0,0,0.5);
+}
+.logo{
+	width: 140px;
+	height: 110px;
+	padding: 1px 40px; 
+}
+.navbar ul{
+	float: right;
+	margin-right: 20px;
+}
+.navbar ul li{
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+
+
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: red;
+	font-size: 20px;
+}
+.navbar{
+	background-color: blue;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: brown;
+	clear: both;
+	}
+	.box{
+		overflow: hidden;
+		border: 5px solid red;
+
+	}
+	.blog{
+		min-height: 150px;
+		background-color: green;
+		width: 49.24%;
+		float:left;
+		border: 5px solid violet;
+
+	}
+	
+	.package{
+		 overflow: hidden;
+		border: 5px solid black;
+	}
+	.name{
+		min-height: 150px;
+		background-color: cyan;
+		border: 5px solid yellow;
+		width: 24.25%;
+		float: left;
+	}
+	.pack{
+		 overflow: hidden;
+		border: 5px solid red;
+	}
+	.age{
+		min-height: 150px;
+		background-color: violet;
+		border: 5px solid red;
+		width: 32.58%;
+		float: left;
+	}
+	.last{
+		overflow: hidden;
+		border: 5px solid orange;
+	}
+	.add{
+		min-height: 80px;
+		background-color: silver;
+		border: 5px solid teal;
+		width: 19.245%;
+		float: left;
+	}
